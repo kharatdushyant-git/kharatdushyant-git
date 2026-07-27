@@ -1,26 +1,16 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,50:203A43,100:2C5364&text=Dushyant%20Kharat&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3C72,100:2A5298&height=250&section=header&text=Dushyant%20Kharat&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hi, I'm Dushyant Kharat
+# 👋 Hi, I'm Dushyant Kharat
 
 ### 💻 Java Backend Developer • 🏆 Competitive Programmer • 🎓 Computer Engineering Student
 
-<p>
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Building+Scalable+Backend+Applications;Passionate+about+System+Programming;Competitive+Programming+Journey;Spring+Boot+Developer;Always+Learning+New+Things+🚀"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Java+Backend+Developer;System+Programming+Enthusiast;Competitive+Programming+Journey;Spring+Boot+Developer;Always+Learning+New+Things+🚀" />
 
-<p>
+<br>
 
-<a href="https://github.com/kharatdushyant-git">
-<img src="https://img.shields.io/github/followers/kharatdushyant-git?style=for-the-badge&logo=github&color=181717"/>
-</a>
-
-<a href="https://github.com/kharatdushyant-git">
-<img src="https://komarev.com/ghpvc/?username=kharatdushyant-git&style=for-the-badge&color=blue"/>
-</a>
-
-</p>
+<img src="https://komarev.com/ghpvc/?username=kharatdushyant-git&style=for-the-badge&color=0e75b6"/>
 
 </div>
 
@@ -35,17 +25,15 @@ Dushyant@GitHub:~$
 > Spring Boot Enthusiast
 > System Programming Explorer
 > Competitive Programmer
-> Linux Learner
 
 Status : Building • Learning • Improving 🚀
 ```
 
 - 🎓 Computer Engineering Student
-- 💻 Passionate about Backend Development
-- ⚡ Interested in Operating Systems & System Programming
-- 🌱 Currently learning Competitive Programming
-- 🎯 Goal: Become a Skilled Software Engineer
-- ❤️ Love writing clean and efficient code
+- ☕ Passionate about Java Backend Development
+- ⚙️ Exploring Operating Systems & Linux
+- 🏆 Solving DSA & Competitive Programming Problems
+- 🚀 Building Real-World Backend Projects
 
 ---
 
@@ -53,16 +41,16 @@ Status : Building • Learning • Improving 🚀
 
 <p align="center">
 
+<a href="https://github.com/kharatdushyant-git">
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
+</a>
+
 <a href="https://linkedin.com/in/dushyant-kharat-6792a7354">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 
 <a href="mailto:kharatdushyant9@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://github.com/kharatdushyant-git">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
 </a>
 
 </p>
@@ -73,34 +61,26 @@ Status : Building • Learning • Improving 🚀
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,c,cpp,python,ts,js,mysql,mongodb,git,github,linux,vscode,idea"/>
+<img src="https://skillicons.dev/icons?i=java,spring,c,cpp,python,ts,js,mysql,mongodb,git,github,linux,vscode,idea&perline=7"/>
 
 </p>
 
 ---
 
-# 🚀 Current Focus
+# 🎯 Current Focus
 
-```text
-☕ Java & Spring Boot
-
-🧩 Data Structures & Algorithms
-
-🏆 Competitive Programming (Codeforces)
-
-⚙️ System Programming
-
-🐧 Linux
-
-🌐 Backend Development
-```
+- ☕ Java & Spring Boot
+- 🧩 Data Structures & Algorithms
+- 🏆 Competitive Programming (Codeforces)
+- ⚙️ Linux & System Programming
+- 🌐 Backend Development
 
 ---
 
 # 📂 Featured Projects
 
-| Project | Description |
-|---------|-------------|
+| 🚀 Project | 💡 Description |
+|------------|----------------|
 | 📁 Customized Virtual File System | Virtual File System using C |
 | 📦 File Packer & Unpacker | Secure File Packing Utility |
 | 💬 Chat Messenger | Java Socket Programming |
@@ -108,7 +88,7 @@ Status : Building • Learning • Improving 🚀
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -144,18 +124,17 @@ Status : Building • Learning • Improving 🚀
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=kharatdushyant-git&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=kharatdushyant-git&theme=tokyonight&no-frame=true&margin-w=10"/>
 
 </p>
 
 ---
 
-# ⚡ Quote of the Day
+# ⚡ Quote
 
 <div align="center">
 
-> **"First, solve the problem. Then, write the code."**  
-> — John Johnson
+> *"Code is like humor. When you have to explain it, it's bad."* — Cory House
 
 </div>
 
@@ -163,8 +142,6 @@ Status : Building • Learning • Improving 🚀
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0F2027,50:203A43,100:2C5364"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3C72,100:2A5298&height=120&section=footer"/>
 
 </div>
