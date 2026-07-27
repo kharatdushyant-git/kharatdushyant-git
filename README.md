@@ -1,12 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3C72,100:2A5298&height=250&section=header&text=Dushyant%20Kharat&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=Dushyant%20Kharat&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 
 # 👋 Hi, I'm Dushyant Kharat
 
 ### 💻 Java Backend Developer • 🏆 Competitive Programmer • 🎓 Computer Engineering Student
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Java+Backend+Developer;System+Programming+Enthusiast;Competitive+Programming+Journey;Spring+Boot+Developer;Always+Learning+New+Things+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=00F7FF&center=true&vCenter=true&width=850&lines=Java+Backend+Developer;Spring+Boot+Developer;System+Programming+Enthusiast;Competitive+Programming+Journey;Building+Projects+Every+Day;Always+Learning+🚀" />
 
 <br>
 
@@ -19,21 +19,25 @@
 # 💫 About Me
 
 ```console
-Dushyant@GitHub:~$
+Dushyant@github:~$
 
 > Java Backend Developer
+
 > Spring Boot Enthusiast
-> System Programming Explorer
+
 > Competitive Programmer
 
-Status : Building • Learning • Improving 🚀
+> System Programming Explorer
+
+Status : BUILDING • LEARNING • IMPROVING 🚀
 ```
 
 - 🎓 Computer Engineering Student
-- ☕ Passionate about Java Backend Development
+- ☕ Passionate about Backend Development
 - ⚙️ Exploring Operating Systems & Linux
-- 🏆 Solving DSA & Competitive Programming Problems
-- 🚀 Building Real-World Backend Projects
+- 🧩 Solving Data Structures & Algorithms
+- 🏆 Learning Competitive Programming
+- 🚀 Building Industry-Level Projects
 
 ---
 
@@ -67,13 +71,19 @@ Status : Building • Learning • Improving 🚀
 
 ---
 
-# 🎯 Current Focus
+# 🚀 Current Focus
 
-- ☕ Java & Spring Boot
-- 🧩 Data Structures & Algorithms
-- 🏆 Competitive Programming (Codeforces)
-- ⚙️ Linux & System Programming
-- 🌐 Backend Development
+<p align="center">
+
+<img src="https://img.shields.io/badge/Java-Spring%20Boot-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Competitive%20Programming-Codeforces-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/DSA-Learning-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Linux-System%20Programming-black?style=for-the-badge"/>
+
+</p>
 
 ---
 
@@ -88,33 +98,19 @@ Status : Building • Learning • Improving 🚀
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kharatdushyant-git&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.shion.dev/api?username=kharatdushyant-git&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kharatdushyant-git&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=kharatdushyant-git&theme=ambient_gradient&hide_border=true"/>
 
 </p>
 
----
-
-# 🔥 GitHub Streak
-
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=kharatdushyant-git&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kharatdushyant-git&theme=tokyo-night"/>
+<img width="45%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=kharatdushyant-git&theme=ambient_gradient&hide_border=true&layout=compact"/>
 
 </p>
 
@@ -124,24 +120,18 @@ Status : Building • Learning • Improving 🚀
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=kharatdushyant-git&theme=tokyonight&no-frame=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=kharatdushyant-git&theme=algolia&no-frame=true&margin-w=15&row=1&column=6"/>
 
 </p>
 
 ---
 
-# ⚡ Quote
-
-<div align="center">
-
-> *"Code is like humor. When you have to explain it, it's bad."* — Cory House
-
-</div>
-
 ---
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3C72,100:2A5298&height=120&section=footer"/>
+### ⭐ Thanks for Visiting!
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
 
 </div>
