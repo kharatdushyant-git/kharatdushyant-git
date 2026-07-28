@@ -1,7 +1,3 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=Dushyant%20Kharat&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
-
 # 👋 Hi, I'm Dushyant Kharat
 
 ### 💻 Java Backend Developer • 🏆 Competitive Programmer • 🎓 Computer Engineering Student
