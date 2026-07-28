@@ -2,7 +2,7 @@
 
 ### 💻 Java Backend Developer • 🏆 Competitive Programmer • 🎓 Computer Engineering Student
 
-CompetitivePROgramming Journey | Building Projects | EveryDay | Always Learning+🚀
+| Competitive PROgramming Journey | Building Projects | Every Day | Always Learning 🚀 |
 
 </div>
 
@@ -14,11 +14,8 @@ CompetitivePROgramming Journey | Building Projects | EveryDay | Always Learning+
 Dushyant@github:~$
 
 > Java Backend Developer
-
 > Spring Boot Enthusiast
-
 > Competitive Programmer
-
 > System Programming Explorer
 
 Status : BUILDING • LEARNING • IMPROVING 🚀
@@ -97,12 +94,6 @@ Status : BUILDING • LEARNING • IMPROVING 🚀
 </p>
 
 ---
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kharatdushyant-git&theme=algolia&no-frame=true&margin-w=15&row=1&column=6"/>
 
 </p>
 
