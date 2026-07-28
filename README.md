@@ -2,11 +2,7 @@
 
 ### 💻 Java Backend Developer • 🏆 Competitive Programmer • 🎓 Computer Engineering Student
 
-Competitive+Programming+Journey;Building+Projects+Every+Day;Always+Learning+🚀" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=kharatdushyant-git&style=for-the-badge&color=0e75b6"/>
+CompetitivePROgramming Journey | Building Projects | EveryDay | Always Learning+🚀
 
 </div>
 
@@ -82,16 +78,6 @@ Status : BUILDING • LEARNING • IMPROVING 🚀
 </p>
 
 ---
-
-# 📂 Featured Projects
-
-| 🚀 Project | 💡 Description |
-|------------|----------------|
-| 📁 Customized Virtual File System | Virtual File System using C |
-| 📦 File Packer & Unpacker | Secure File Packing Utility |
-| 💬 Chat Messenger | Java Socket Programming |
-| 🎓 EduTrack | Student Management Portal |
-
 ---
 
 # 📊 GitHub Statistics
