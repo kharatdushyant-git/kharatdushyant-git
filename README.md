@@ -2,7 +2,7 @@
 
 ### 💻 Java Backend Developer • 🏆 Competitive Programmer • 🎓 Computer Engineering Student
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=00F7FF&center=true&vCenter=true&width=850&lines=Java+Backend+Developer;Spring+Boot+Developer;System+Programming+Enthusiast;Competitive+Programming+Journey;Building+Projects+Every+Day;Always+Learning+🚀" />
+Competitive+Programming+Journey;Building+Projects+Every+Day;Always+Learning+🚀" />
 
 <br>
 
