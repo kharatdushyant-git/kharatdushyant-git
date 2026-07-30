@@ -11,7 +11,7 @@
 # 💫 About Me
 
 ```console
-Dushyant@github:~$
+Dushyant@github: ~$
 
 > Java Backend Developer
 > Spring Boot Enthusiast
